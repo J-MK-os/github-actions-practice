@@ -1,6 +1,4 @@
-flask-test.yml
-
-name: DockerTest
+name: Docker Test
 
 
 
